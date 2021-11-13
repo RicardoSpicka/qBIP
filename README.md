@@ -34,7 +34,7 @@ Não necessidade de conectividade com a internet depois de baixado e instalado.
 ## Crédito
 
 * Desenvolvido por Ricardo Spicka.
-* Trabalho de Conclusão de Curso da UNIVESP, Engenharia de Computação Grupo 5 - 2021
+* Trabalho de Conclusão de Curso da UNIVESP, Engenharia de Computação Grupo 5 - NOVEMBRO/2021
 * ANTONIO RICARDO SPICKA; DJONY CARRILHO; JHONY VILLANI DE MELO; JOÃO PAULO; BONALDO; JORGE GUSTAVO FALCÃO; VINICIUS DANTAS DOS SANTOS
 
 # 
