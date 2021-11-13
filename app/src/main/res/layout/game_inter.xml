@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:animateLayoutChanges="true"
+    android:gravity="center"
+    android:background="@drawable/backgroundmenu">
+
+    <RelativeLayout
+        android:layout_width="600dp"
+        android:layout_height="wrap_content"
+        android:paddingHorizontal="20dp"
+        android:layout_gravity="center"
+        android:paddingVertical="10dp">
+
+        <TextView
+            android:id="@+id/titulo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="10dp"
+            android:fontFamily="@font/hemihead"
+            android:text="qBIP - INTERESTÍMULO"
+            android:textColor="#4C0A01"
+            android:textFontWeight="400"
+            android:textSize="36dp" />
+
+        <Switch
+            android:id="@+id/figFundo"
+            android:layout_width="140dp"
+            android:layout_height="wrap_content"
+            android:text="Figura Fundo"
+            android:layout_marginTop="5dp"
+            android:textColor="#4C0A01"
+            android:fontFamily="@font/hemihead"
+            android:layout_alignParentRight="true"/>
+
+        <TextView
+            android:id="@+id/subtitulo"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/titulo"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:background="#4C0A01"
+            android:fontFamily="@font/hemihead"
+            android:paddingTop="4dp"
+            android:text="FREQUÊNCIA    -     2 Bips"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textFontWeight="400"
+            android:textSize="26dp" />
+
+
+        <TextView
+            android:id="@+id/placar2"
+            android:layout_width="100dp"
+            android:layout_height="95dp"
+            android:layout_below="@+id/subtitulo"
+            android:layout_marginTop="23dp"
+            android:layout_marginRight="37dp"
+            android:layout_toLeftOf="@id/lado_direito"
+            android:background="@drawable/placar"
+            android:clickable="false"
+            android:fontFamily="@font/digitalbold"
+            android:onClick="abrirConfiguracoes"
+            android:paddingTop="29dp"
+            android:text="0  8"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textFontWeight="600"
+            android:textSize="50dp" />
+
+        <LinearLayout
+            android:id="@+id/lado_esquerdo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/subtitulo"
+            android:layout_alignParentLeft="true"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/one"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_below="@id/subtitulo"
+                android:layout_alignParentLeft="true"
+                android:layout_marginTop="30dp"
+                android:layout_gravity="center"
+                android:backgroundTint="@android:color/holo_orange_dark"
+                android:fontFamily="@font/hemihead"
+                android:text="1"
+                android:textColor="@color/black"
+                android:textSize="24dp" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/two"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:fontFamily="@font/hemihead"
+                    android:backgroundTint="#3949AB"
+                    android:text="2"
+                    android:textColor="@color/white"
+                    android:textSize="24dp" />
+
+                <Button
+                    android:id="@+id/three"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginLeft="10dp"
+                    android:fontFamily="@font/hemihead"
+                    android:backgroundTint="#B851DD"
+                    android:text="3"
+                    android:textColor="@color/white"
+                    android:textSize="24dp" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/lado_direito"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/subtitulo"
+            android:layout_alignParentRight="true"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/four"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginTop="30dp"
+                android:fontFamily="@font/hemihead"
+                android:backgroundTint="#FDD835"
+                android:text="4"
+                android:layout_gravity="center"
+                android:textColor="@color/black"
+                android:textSize="24dp" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/five"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginLeft="10dp"
+                    android:fontFamily="@font/hemihead"
+                    android:backgroundTint="@android:color/holo_red_dark"
+                    android:text="5"
+                    android:textColor="@color/white"
+                    android:textSize="24dp" />
+
+                <Button
+                    android:id="@+id/six"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginLeft="10dp"
+                    android:fontFamily="@font/hemihead"
+                    android:backgroundTint="#43A047"
+                    android:text="6"
+                    android:textColor="@color/white"
+                    android:textSize="24dp" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+
+        <TextView
+            android:id="@+id/configuracoes"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_below="@+id/lado_direito"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/engren"
+            android:clickable="true"
+            android:onClick="config" />
+
+
+        <TextView
+            android:id="@+id/repete"
+            android:layout_width="100dp"
+            android:layout_height="88dp"
+            android:layout_below="@+id/subtitulo"
+            android:layout_marginLeft="35dp"
+            android:layout_marginTop="33dp"
+            android:layout_toRightOf="@id/lado_esquerdo"
+            android:background="@drawable/escutar"
+            android:clickable="true"
+            android:fontFamily="@font/hemihead"
+            android:onClick="escutar"
+            android:textColor="#4C0A01"
+            android:textFontWeight="400"
+            android:textSize="25dp" />
+
+        <TextView
+            android:id="@+id/voltar"
+            android:layout_width="70dp"
+            android:layout_height="50dp"
+            android:layout_below="@+id/lado_direito"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/voltar"
+            android:clickable="true"
+            android:onClick="backMain" />
+
+        <TextView
+            android:id="@+id/denovo"
+            android:layout_below="@+id/lado_direito"
+            android:layout_width="70dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="15dp"
+            android:layout_centerInParent="true"
+            android:background="@drawable/denovo"
+            android:clickable="true"
+            android:onClick="reinicia"/>
+
+    </RelativeLayout>
+
+</LinearLayout>
