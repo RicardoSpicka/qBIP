@@ -1,0 +1,27 @@
+com/fonoaudiologia/qbip/freq_game.java
+ com.fonoaudiologia.qbip.freq_game
+ com.fonoaudiologia.qbip.freq_game$1
+ com.fonoaudiologia.qbip.freq_game$2
+ com.fonoaudiologia.qbip.freq_game$3
+com/fonoaudiologia/qbip/BuildConfig.java
+ com.fonoaudiologia.qbip.BuildConfig
+com/fonoaudiologia/qbip/conf_freq_game.java
+ com.fonoaudiologia.qbip.conf_freq_game
+ com.fonoaudiologia.qbip.conf_freq_game$1
+com/fonoaudiologia/qbip/conf_vol_game.java
+ com.fonoaudiologia.qbip.conf_vol_game
+com/fonoaudiologia/qbip/dur_game.java
+ com.fonoaudiologia.qbip.dur_game
+ com.fonoaudiologia.qbip.dur_game$1
+ com.fonoaudiologia.qbip.dur_game$2
+ com.fonoaudiologia.qbip.dur_game$3
+com/fonoaudiologia/qbip/conf_dur_game.java
+ com.fonoaudiologia.qbip.conf_dur_game
+ com.fonoaudiologia.qbip.conf_dur_game$1
+com/fonoaudiologia/qbip/Main_Activity.java
+ com.fonoaudiologia.qbip.Main_Activity
+com/fonoaudiologia/qbip/vol_game.java
+ com.fonoaudiologia.qbip.vol_game
+ com.fonoaudiologia.qbip.vol_game$1
+ com.fonoaudiologia.qbip.vol_game$2
+ com.fonoaudiologia.qbip.vol_game$3

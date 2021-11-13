@@ -1,0 +1,330 @@
+[
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\layout-land_menu_main.xml.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\layout-land\\menu_main.xml"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\font_digital.ttf.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\font\\digital.ttf"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\raw_cafeteria.mp3.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\raw\\cafeteria.mp3"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\drawable_mais.png.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\drawable\\mais.png"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\drawable_more.png.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\drawable\\more.png"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\font_hemihead.ttf.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\font\\hemihead.ttf"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\layout_obs_dur_config.xml.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\layout\\obs_dur_config.xml"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\font_corel.ttf.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\font\\corel.ttf"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\drawable_botao_redondo.xml.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\drawable\\botao_redondo.xml"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\raw_fim.mp3.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\raw\\fim.mp3"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\layout_game_freq.xml.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\layout\\game_freq.xml"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\layout_game_vol.xml.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\layout\\game_vol.xml"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\drawable_menos.png.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\drawable\\menos.png"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\font_blasteet.ttf.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\font\\blasteet.ttf"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\font_albas.ttf.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\font\\albas.ttf"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\raw_certo.mp3.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\raw\\certo.mp3"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\font_digitalbold.ttf.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\font\\digitalbold.ttf"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\drawable_engren.png.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\drawable\\engren.png"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\drawable_botao_menu_1.xml.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\drawable\\botao_menu_1.xml"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\font_magenta.ttf.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\font\\magenta.ttf"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\layout_config_inter.xml.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\layout\\config_inter.xml"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\layout_config_freq.xml.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\layout\\config_freq.xml"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\font_alba.ttf.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\font\\alba.ttf"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\layout_config_vol.xml.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\layout\\config_vol.xml"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\font_blastein.ttf.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\font\\blastein.ttf"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\font_albam.ttf.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\font\\albam.ttf"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\layout_config_dur.xml.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\layout\\config_dur.xml"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\font_blasteei.ttf.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\font\\blasteei.ttf"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\font_nsecthin.ttf.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\font\\nsecthin.ttf"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\drawable_voltar.png.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\drawable\\voltar.png"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\drawable_start.png.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\drawable\\start.png"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\font_blasteri.ttf.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\font\\blasteri.ttf"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\layout_game_inter.xml.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\layout\\game_inter.xml"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\font_blaster.ttf.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\font\\blaster.ttf"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\drawable_anterior.png.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\drawable\\anterior.png"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\drawable_escutar.png.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\drawable\\escutar.png"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\anim_mover_esquerda.xml.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\anim\\mover_esquerda.xml"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\font_poetsenone.ttf.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\font\\poetsenone.ttf"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\drawable_mine.png.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\drawable\\mine.png"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\font_gened.ttf.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\font\\gened.ttf"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\font_neuropol.ttf.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\font\\neuropol.ttf"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\drawable_avancar.png.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\drawable\\avancar.png"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_qbip.png.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\mipmap-hdpi\\ic_qbip.png"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\raw_errado.mp3.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\raw\\errado.mp3"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\font_anjaeliane.ttf.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\font\\anjaeliane.ttf"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\anim_fade_in.xml.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\font_kaedusttf.ttf.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\font\\kaedusttf.ttf"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\layout_game_dur.xml.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\layout\\game_dur.xml"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\font_electromagneticlungs.otf.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\font\\electromagneticlungs.otf"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\drawable_placar.png.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\drawable\\placar.png"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\font_infinits.ttf.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\font\\infinits.ttf"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\layout_menu_main.xml.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\layout\\menu_main.xml"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\anim_fade_out.xml.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\anim_mover_direita.xml.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\anim\\mover_direita.xml"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\font_quantum.otf.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\font\\quantum.otf"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\font_nanosecw.ttf.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\font\\nanosecw.ttf"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\font_nsecthck.ttf.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\font\\nsecthck.ttf"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\drawable_backgroundmenu.jpg.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\drawable\\backgroundmenu.jpg"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\font_goodtimingbd.ttf.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\font\\goodtimingbd.ttf"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\font_infinite.ttf.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\font\\infinite.ttf"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\font_font.xml.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\font\\font.xml"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\drawable_denovo.png.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\drawable\\denovo.png"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\font_blasteii.ttf.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\font\\blasteii.ttf"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\font_sherwood.ttf.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\font\\sherwood.ttf"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\layout_obs_freq_config.xml.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\layout\\obs_freq_config.xml"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\font_fifawelcome.ttf.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\font\\fifawelcome.ttf"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\font_conquest.ttf.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\font\\conquest.ttf"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\TCC\\qBIP\\app\\build\\intermediates\\merged_res\\debug\\font_nationalyze.ttf.flat",
+        "source": "D:\\TCC\\qBIP\\app\\src\\main\\res\\font\\nationalyze.ttf"
+    }
+]

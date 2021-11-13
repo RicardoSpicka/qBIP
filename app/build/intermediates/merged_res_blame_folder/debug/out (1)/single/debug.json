@@ -1,0 +1,294 @@
+[
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\font_fifawelcome.ttf.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\font\\fifawelcome.ttf"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\font_conquest.ttf.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\font\\conquest.ttf"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\font_magenta.ttf.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\font\\magenta.ttf"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_engren.png.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\drawable\\engren.png"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_escutar.png.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\drawable\\escutar.png"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\anim_mover_direita.xml.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\anim\\mover_direita.xml"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\raw_errado.mp3.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\raw\\errado.mp3"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\raw_certo.mp3.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\raw\\certo.mp3"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\font_quantum.otf.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\font\\quantum.otf"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mine.png.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\drawable\\mine.png"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\font_neuropol.ttf.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\font\\neuropol.ttf"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\layout_game_vol.xml.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\layout\\game_vol.xml"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\font_digital.ttf.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\font\\digital.ttf"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\font_blasteri.ttf.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\font\\blasteri.ttf"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\font_albas.ttf.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\font\\albas.ttf"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\layout_game_dur.xml.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\layout\\game_dur.xml"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\anim_mover_esquerda.xml.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\anim\\mover_esquerda.xml"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\font_blasteet.ttf.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\font\\blasteet.ttf"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\font_albam.ttf.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\font\\albam.ttf"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\font_nationalyze.ttf.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\font\\nationalyze.ttf"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_teste.xml.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\layout\\activity_teste.xml"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\layout_menu_main.xml.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\layout\\menu_main.xml"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\font_alba.ttf.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\font\\alba.ttf"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\font_blaster.ttf.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\font\\blaster.ttf"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_backgroundmenu.jpg.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\drawable\\backgroundmenu.jpg"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\raw_fim.mp3.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\raw\\fim.mp3"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\font_kaedusttf.ttf.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\font\\kaedusttf.ttf"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\layout_game_freq.xml.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\layout\\game_freq.xml"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\font_blasteei.ttf.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\font\\blasteei.ttf"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_voltar.png.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\drawable\\voltar.png"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\font_corel.ttf.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\font\\corel.ttf"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\font_blastein.ttf.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\font\\blastein.ttf"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\font_nsecthin.ttf.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\font\\nsecthin.ttf"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_anterior.png.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\drawable\\anterior.png"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\layout_config_dur.xml.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\layout\\config_dur.xml"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\font_nanosecw.ttf.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\font\\nanosecw.ttf"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_in.xml.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade_out.xml.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\font_electromagneticlungs.otf.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\font\\electromagneticlungs.otf"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\font_nsecthck.ttf.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\font\\nsecthck.ttf"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\font_poetsenone.ttf.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\font\\poetsenone.ttf"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\font_gened.ttf.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\font\\gened.ttf"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_placar.png.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\drawable\\placar.png"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\font_goodtimingbd.ttf.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\font\\goodtimingbd.ttf"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\font_digitalbold.ttf.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\font\\digitalbold.ttf"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_avancar.png.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\drawable\\avancar.png"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\font_infinits.ttf.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\font\\infinits.ttf"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\raw_cafeteria.mp3.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\raw\\cafeteria.mp3"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\font_anjaeliane.ttf.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\font\\anjaeliane.ttf"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\font_infinite.ttf.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\font\\infinite.ttf"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_more.png.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\drawable\\more.png"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\layout_config_vol.xml.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\layout\\config_vol.xml"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\font_hemihead.ttf.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\font\\hemihead.ttf"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\layout_config_freq.xml.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\layout\\config_freq.xml"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_denovo.png.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\drawable\\denovo.png"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\font_sherwood.ttf.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\font\\sherwood.ttf"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\font_blasteii.ttf.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\font\\blasteii.ttf"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\font_font.xml.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\font\\font.xml"
+    },
+    {
+        "merged": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\build\\intermediates\\res\\merged\\debug\\drawable_botao_menu_1.xml.flat",
+        "source": "F:\\Ricardo\\GoogleDrive\\_UNIVESP\\qBIP\\app\\src\\main\\res\\drawable\\botao_menu_1.xml"
+    }
+]
